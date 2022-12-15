@@ -1,0 +1,63 @@
+body {
+    font-size: 10px;
+    color: white;
+ }
+
+.Header {
+    border: 1px solid white;
+    width: fit-content;
+    margin-top: 0px;
+    margin-left: 300px;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.Video {
+    margin-left:325px;
+    margin-top: 5px;
+}
+
+.List {
+    font-family: 'Playfair Display', serif;
+}
+
+.tableauPlaceholder {
+    margin-left: 50px;
+    margin-top: 25px; 
+}
+
+.Images {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+img {
+    width: 500px;
+  }
+
+.button-1 {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 1125px;
+    cursor: pointer;
+}
+
+  .button-2 {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 1050px;
+    cursor: pointer;
+  }
+
+
